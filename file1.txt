@@ -1,4 +1,3 @@
 created file1
 stash1  file updated and apply shash cmd
 stash2
-revert cmd
